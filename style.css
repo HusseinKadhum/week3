@@ -1,0 +1,14 @@
+/*Styles for both webpages*/
+h1
+{
+font-size: 150;
+}
+
+body
+{
+background-color: blue;
+text-align: center;
+font-family: Ariel;
+font-size: 100%; 
+color: white; 
+ }
